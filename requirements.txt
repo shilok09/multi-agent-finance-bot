@@ -1,0 +1,23 @@
+# Core dependencies for the Finance Agent application
+agno>=0.1.0
+rich>=13.0.0
+groq>=0.4.0
+openai>=1.0.0
+yfinance>=0.2.0
+newspaper4k>=0.9.0
+duckduckgo-search>=3.8.0
+
+# Database dependencies
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Web framework dependencies (for playground)
+fastapi>=0.100.0
+uvicorn>=0.20.0
+pydantic>=2.0.0
+
+# Additional utility dependencies
+python-dotenv>=1.0.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
