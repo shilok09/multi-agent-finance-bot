@@ -1,6 +1,9 @@
 
-[![Watch the demo](https://via.placeholder.com/800x450.png?text=▶+Watch+Demo)](https://github.com/shilok09/multi-agent-finance-bot/blob/main/chatbot.mp4)
+## 🎥 Demo Video
 
+<p align="center">
+  <img src="0804.gif" width="700">
+</p>
 
 # 🏦 Finance Team AI Agent
 
