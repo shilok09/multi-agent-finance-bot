@@ -1,11 +1,9 @@
 
-## 🎥 Demo Video
-
 <p align="center">
   <img src="0804.gif" width="700">
 </p>
 
-# 🏦 Finance Team AI Agent
+#  Multi Agent Finance Chatbot
 
 A sophisticated multi-agent financial analysis system powered by AI that provides comprehensive market research, sentiment analysis, and automated report generation.
 
@@ -125,7 +123,7 @@ yarn dev
 
 The UI will be available at: `http://localhost:3000`
 
-## 📋 Available Commands
+## Available Commands
 
 ### Backend (Python)
 ```bash
@@ -153,7 +151,7 @@ pnpm format
 pnpm typecheck
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### API Keys Setup
 
@@ -175,7 +173,7 @@ AGNO_API_KEY=your_agno_api_key_here
 OPENAI_API_BASE=https://models.github.ai/inference
 ```
 
-## 💡 Usage Examples
+## Usage Examples
 
 ### Basic Financial Analysis
 ```python
@@ -217,24 +215,5 @@ Agno/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](../../issues) page
-2. Create a new issue with detailed information
-3. Join our community discussions
-
-## 🙏 Acknowledgments
-
-- Built with [Agno](https://agno.ai/) - Advanced AI Agent Framework
-- Powered by [Groq](https://groq.com/) and [OpenAI](https://openai.com/)
-- UI built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
-
 ---
 
-**Made with ❤️ by the Finance Team AI**
