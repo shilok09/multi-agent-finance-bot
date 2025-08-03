@@ -1,3 +1,7 @@
+
+[![Watch the demo](https://via.placeholder.com/800x450.png?text=▶+Watch+Demo)](https://github.com/shilok09/multi-agent-finance-bot/blob/main/chatbot.mp4)
+
+
 # 🏦 Finance Team AI Agent
 
 A sophisticated multi-agent financial analysis system powered by AI that provides comprehensive market research, sentiment analysis, and automated report generation.
@@ -73,10 +77,24 @@ The agent playground will be available at: `http://localhost:8000`
 
 ### 3. Frontend Setup (Next.js UI)
 
+#### Clone the Agent UI from Official Repository
+```bash
+git clone https://github.com/agno-agi/agent-ui.git
+```
+
 #### Navigate to UI Directory
 ```bash
 cd agent-ui
 ```
+
+#### Pull Teams Functionality (Required for Multi-Agent Support)
+```bash
+# Fetch and checkout the PR branch for teams functionality
+git fetch origin pull/92/head:teams-support
+git checkout teams-support
+```
+
+**Note**: This pulls PR #92 which contains the necessary changes to support multi-agent teams in the UI.
 
 #### Install Dependencies
 ```bash
